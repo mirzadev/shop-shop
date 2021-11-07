@@ -1,10 +1,10 @@
-# User Story
+## User Story
 * As a user, I want to experience better performance across the features I use in the application:
 
   * View and filter products by category
 
   * Click on a product to see full details
-  
+
 * As a user, I want to be able to add products to my shopping cart
 
 * As a user, I want to be able to see my shopping cart from any page
