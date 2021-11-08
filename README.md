@@ -18,3 +18,7 @@
 * As a user, I would like to be able to use my credit card to process and complete my order
 
 * As a user, I want to see my order history
+
+## installation
+- npm install (in main dir)
+- npm run seed (in main)
