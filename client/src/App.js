@@ -22,7 +22,7 @@ const httpLink = createHttpLink({
 });
 
 const authLink = setContext((_, { headers }) => {
-  const token = localStorage.getItem('id_token');
+  const token = localStorage.getItem('shop_id_token');
   return {
     headers: {
       ...headers,
