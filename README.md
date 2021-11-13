@@ -22,3 +22,4 @@
 ## installation
 - npm install (in main dir)
 - npm run seed (in main)
+- npm install @stripe/stripe-js (in client)
